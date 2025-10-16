@@ -1,0 +1,8 @@
+
+# Node dependencies
+node_modules/
+
+# Build/distribution and CDN artifacts
+dist/
+cdn/
+
